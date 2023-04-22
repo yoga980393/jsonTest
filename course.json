@@ -13,7 +13,7 @@
         "place": "E105",
         "numberOfPeople": 37,
         "maxOfPeople": 60,
-        "teacher": "陳建宏",
+        "teacher": ["陳建宏"],
         "image": "test0"
     },
     {
@@ -30,7 +30,7 @@
         "place": "E513",
         "numberOfPeople": 30,
         "maxOfPeople": 50,
-        "teacher": "巫銘紘",
+        "teacher": ["巫銘紘"],
         "image": "test1"
     },
     {
@@ -47,7 +47,7 @@
         "place": "E212",
         "numberOfPeople": 40,
         "maxOfPeople": 50,
-        "teacher": "吳林全",
+        "teacher": ["吳林全"],
         "image": "test2"
     },
     {
@@ -64,7 +64,7 @@
         "place": "A201",
         "numberOfPeople": 45,
         "maxOfPeople": 60,
-        "teacher": "林志敏",
+        "teacher": ["林志敏"],
         "image": "test0"
     },
     {
@@ -81,7 +81,7 @@
         "place": "B301",
         "numberOfPeople": 25,
         "maxOfPeople": 40,
-        "teacher": "李美玲",
+        "teacher": ["李美玲"],
         "image": "test0"
     },
     {
@@ -98,7 +98,7 @@
         "place": "D101",
         "numberOfPeople": 20,
         "maxOfPeople": 35,
-        "teacher": "王大明",
+        "teacher": ["王大明"],
         "image": "test0"
     },
     {
@@ -115,7 +115,7 @@
         "place": "D201",
         "numberOfPeople": 30,
         "maxOfPeople": 50,
-        "teacher": "林小芳",
+        "teacher": ["林小芳"],
         "image": "test0"
     },
     {
@@ -132,7 +132,7 @@
         "place": "D301",
         "numberOfPeople": 20,
         "maxOfPeople": 40,
-        "teacher": "陳怡君",
+        "teacher": ["陳怡君"],
         "image": "test0"
     },
     {
@@ -149,7 +149,7 @@
         "place": "C102",
         "numberOfPeople": 50,
         "maxOfPeople": 60,
-        "teacher": "林冠宇",
+        "teacher": ["林冠宇"],
         "image": "test0"
     }
 ]

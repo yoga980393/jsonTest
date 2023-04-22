@@ -13,7 +13,7 @@
         "place": "E105",
         "numberOfPeople": 37,
         "maxOfPeople": 60,
-        "teacher": "陳建宏",
+        "teacher": ["陳建宏"],
         "image": "test0"
     },
     {
@@ -30,7 +30,7 @@
         "place": "B301",
         "numberOfPeople": 25,
         "maxOfPeople": 40,
-        "teacher": "李美玲",
+        "teacher": ["李美玲"],
         "image": "test0"
     },
     {
@@ -47,7 +47,7 @@
         "place": "E513",
         "numberOfPeople": 30,
         "maxOfPeople": 50,
-        "teacher": "巫銘紘",
+        "teacher": ["巫銘紘"],
         "image": "test1"
     }
 ]
